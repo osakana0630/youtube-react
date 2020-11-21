@@ -1,11 +1,11 @@
 import React from "react";
 
-const App = () => {
+const Watch = () => {
   return (
     <div>
-      App
+      Watch
     </div>
   );
 }
 
-export default App;
+export default Watch;
