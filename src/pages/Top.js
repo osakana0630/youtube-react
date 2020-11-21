@@ -1,10 +1,14 @@
 import React from "react";
+import Layout from "../components/Layout/Layout";
+
 
 const Top = () => {
   return (
-    <div>
-      Top
-    </div>
+    <Layout>
+      <div>
+        Top
+      </div>
+    </Layout>
   );
 }
 
